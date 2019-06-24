@@ -1,0 +1,3 @@
+neha , 90
+pooja , 90
+rahul , 300
